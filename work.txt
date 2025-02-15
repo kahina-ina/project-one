@@ -1,2 +1,2 @@
 create page home 
-are you 
+are you ok
